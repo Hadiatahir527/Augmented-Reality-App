@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4b165cc92e3945f45a759730cff11136
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - furnitureScrollRect: {fileID: 428481204167330367, guid: 93b6521c2c70e134495cf452563ceddf, type: 3}
+  - furnitureContentParent: {instanceID: 0}
+  - furnitureButtonPrefab: {fileID: 3557721202375962162, guid: b396652074aaaa848be838164f1c468d, type: 3}
+  - sessionOrigin: {instanceID: 0}
+  - raycastManager: {instanceID: 0}
+  - planeManager: {instanceID: 0}
+  - rotateButton: {instanceID: 0}
+  - deleteButton: {instanceID: 0}
+  - undoButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
